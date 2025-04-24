@@ -1,0 +1,4 @@
+pandas
+pyodbc
+recordlinkage
+python-dotenv
