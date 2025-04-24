@@ -31,10 +31,10 @@ The script will generate:
 ## File Structure
 ```
 .
-├── match_tracts.py               # Main Python script
-├── .env.example                 # Sample environment file
+├── similarity.py               # Main Python script
+├── .env.example                # Sample environment file
 ├── requirements.txt            # Dependency list
-├── final_matched_records.csv   # Example output file (generated)
+├── final_matched_records.csv   # Example output file
 └── README.md                   # This file
 ```
 
